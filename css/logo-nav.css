@@ -85,3 +85,77 @@ body {
 	position: relative;
 }
 
+.agenda {
+
+ }
+
+/* Dates */
+.agenda .agenda-date {  width: 120px; padding-top: 15px; }
+.agenda .agenda-date .dayofmonth {
+  width: 40px;
+  font-size: 36px;
+  line-height: 36px;
+  float: left;
+  text-align: right;
+  margin-right: 10px;
+}
+.agenda .agenda-date .shortdate {
+  font-size: 0.75em;
+}
+
+
+.agenda .agenda-exercicio {
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 10px;
+  padding-top: 15px;
+  width: 250px;
+  text-align: left;
+  margin: 1px;
+}
+
+
+/* Events */
+.agenda .agenda-events {  }
+.agenda .agenda-event {
+  display: table-cell;
+  vertical-align: bottom;;
+  padding-left: 10px;
+  padding-top: 15px;
+  width: 410px;
+  text-align: left;
+  margin: 1px;
+}
+
+.agenda-row{
+  display: table-row;
+  vertical-align: bottom;
+  padding: 30px;
+  /*border: solid 1px #00FF00;*/
+  border-left: 0px;
+}
+
+
+.cell{
+  display: table-cell;
+  vertical-align: top;
+  padding-left: 10px;
+  padding-top: 15px;
+  /*width: 350px;*/
+  text-align: left;
+  margin: 1px;
+  /*border: solid 1px #FF0000;*/
+}
+
+.agenda-header{
+  text-align: left;
+  margin-left: 5px;
+  font-weight: bold;
+  padding: 15px;
+  border-bottom: solid 1px #d3d3d3;
+  border-top: solid 1px #d3d3d3;
+  font-size: 12pt;
+  /*
+  font-style: italic;
+  color: grey; */
+}

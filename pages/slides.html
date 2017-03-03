@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Página do curso de Introdução a Ciência dos\
+    Dados do Centro de Informática da Universidade Federal de Pernambuco.">
+    <meta name="author" content="Renato Vimieiro">
+
+    <title>IF1015 &mdash; CIn/UFPE</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="../css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="../css/logo-nav.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header navbar-right">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand navbar-right" href="http://www.cin.ufpe.br" target="blank_">
+                    <img src="../figs/logos.svg" alt="Centro de Informárica" height=70px>
+                </a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="../index.html">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Ementa</a>
+                    </li>
+                    <li>
+                        <a href="refs.html">Referências</a>
+                    </li>
+                    <li>
+                        <a href="slides.html">Slides</a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/if1015-datascience-ufpe/2017.1/">GitHub</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+    	<div class="row">
+    		<div class="col-lg-12">
+		        <h2>IF1015 &mdash; Introdução a Ciência dos Dados</h2>
+		    </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                <h4>Prof. Renato Vimieiro (rv2 em cin.ufpe.br)</h4>
+                <hr/>
+                <h4> Cronograma de aulas e slides </h4>
+                <div class="agenda" id="tabela-aulas">
+                  <div class="agenda-row">
+                    <span class="cell agenda-header"> Data </span>
+                    <span class="cell agenda-header"> Aula </span>
+                    <span class="cell agenda-header"> Exercício </span>
+                  </div>
+                </div> <!-- agenda -->
+            </div>
+        </div>
+    </div>
+    <!-- /.container -->
+
+    <!-- jQuery -->
+    <script src="../js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="http://d3js.org/d3.v3.min.js"></script>
+
+    <!-- Retirado do exemplo para popular tabela com D3.js
+        disponivel em http://bl.ocks.org/ndarville/7075823.
+        Foi adaptado para popular usando o formato estabelecido por mim -->
+    <script type="text/javascript"charset="utf-8">
+          var weekday = ["Dom","Seg","Ter","Qua","Qui","Sex","Sáb"];
+          var month = ["Jan","Fev","Mar","Abr","Mai","Jun","Jul","Ago","Set",
+        "Out","Nov","Dez"];
+        d3.csv("data.csv", function(d){
+
+          var tmp = new Date(d.data+"T00:00:00-03:00");
+          var a = {
+            dayofweek: weekday[tmp.getDay()],
+            dayofmonth: tmp.getDate(),
+            year: tmp.getFullYear(),
+            month: month[tmp.getMonth()],
+            aula: d.aula,
+            exercicio: d.exercicio,
+          };
+          var body = d3.select("body");
+          var container = body.selectAll("#tabela-aulas");
+          var row = container.append("div")
+                    .attr("class","agenda-row");
+          var data = row.append("div")
+                        .attr("class","agenda-date");
+          data.append("div")
+            .attr("class","dayofmonth")
+            .text(a.dayofmonth);
+          data.append("div")
+            .attr("class","dayofweek")
+            .text(a.dayofweek);
+          data.append("div")
+            .attr("class","shortdate text-muted")
+            .text(a.month + ", " + a.year);
+
+          row.append("span")
+            .attr("class","cell agenda-event")
+            .text(a.aula);
+
+          row.append("span")
+            .attr("class","cell agenda-exercicio")
+            .text(a.exercicio);
+
+        }, function(error, rows) {
+                console.log(error);
+        });
+
+
+        /*d3.text("data.csv", function(data) {
+            var parsedCSV = d3.csv.parse(data);
+            console.log(parsedCSV);
+            /*var container = d3.select("agenda")
+                .append("agenda-row")
+
+                .selectAll("tr")
+                    .data(parsedCSV).enter()
+                    .append("tr")
+
+                .selectAll("td")
+                    .data(function(d) { return d; }).enter()
+                    .append("td")
+                    .text(function(d) { return d; });
+        });*/
+    </script>
+
+</body>
+
+</html>
