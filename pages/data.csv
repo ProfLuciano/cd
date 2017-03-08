@@ -1,6 +1,6 @@
 data,aula,exercicio
 2017-03-06,Apresentação do curso,
-2017-03-08,O que é Ciência dos Dados?,
+2017-03-08,<a href="../slides/aula01-datascience.html" target="_blank">O que é Ciência dos Dados?</a>,
 2017-03-13,Introdução a Pandas,
 2017-03-15,Lab. Pandas,
 2017-03-20,Data scraping (Extração de dados da web com Python),
