@@ -149,11 +149,11 @@
 
 		  if(a.exercicio.startsWith("<a href"))
 	          row.append("span")
-    	        .attr("class","cell agenda-exercicio")            
+    	        .attr("class","cell agenda-event")            
 	            .html(a.exercicio);
 	      else      
 	      	  row.append("span")
-    	        .attr("class","cell agenda-exercicio")            
+    	        .attr("class","cell agenda-event")            
 	            .text(a.exercicio);
 
         }, function(error, rows) {
