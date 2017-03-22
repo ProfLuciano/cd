@@ -52,7 +52,7 @@
                         <a href="../index.html">Home</a>
                     </li>
                     <li>
-                        <a href="#">Ementa</a>
+                        <a href="ementa.html">Ementa</a>
                     </li>
                     <li>
                         <a href="refs.html">Referências</a>
@@ -147,10 +147,14 @@
     	        .attr("class","cell agenda-event")            
 	            .text(a.aula);
 
-
-          row.append("span")
-            .attr("class","cell agenda-exercicio")
-            .text(a.exercicio);
+		  if(a.exercicio.startsWith("<a href"))
+	          row.append("span")
+    	        .attr("class","cell agenda-exercicio")            
+	            .html(a.exercicio);
+	      else      
+	      	  row.append("span")
+    	        .attr("class","cell agenda-exercicio")            
+	            .text(a.exercicio);
 
         }, function(error, rows) {
                 console.log(error);
