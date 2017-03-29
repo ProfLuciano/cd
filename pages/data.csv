@@ -5,8 +5,8 @@ data,aula,exercicio
 2017-03-15,<a href="../slides/aula03-intro-pandas-part2.ipynb" target="_blank">Intro Pandas Parte 2</a>,
 2017-03-20,<a href="../slides/aula03-intro-pandas-part2.ipynb" target="_blank">Intro Pandas Parte 2 (Continuação)</a>,
 2017-03-22,<a href="../slides/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python)<a>,<a href="../slides/ex0.ipynb" target="_blank">Exercício 0</a>
-2017-03-27,<p><a href="../slides/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python) (continuação)</a></p><p><a href="../slides/aula05-repostas.ipynb" target="_blank">Respostas exercício da aula</a></p>,
-2017-03-29,Lab. Data scraping (Extração de dados da web com Python),
+2017-03-27,<a href="../slides/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python) (continuação)</a>, <a href="../slides/aula05-repostas.ipynb" target="_blank">Respostas exercício da aula</a>,
+2017-03-29,<a href="../slides/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) </a>,
 2017-04-03,Pré-processamento de dados,
 2017-04-05,Conceitos de análise exploratória de dados,
 2017-04-10,Revisão de estatísticas descritivas,
