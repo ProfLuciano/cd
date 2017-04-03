@@ -7,7 +7,7 @@ data,aula,exercicio
 2017-03-22,<a href="../slides/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python)<a>,<a href="../slides/ex0.ipynb" target="_blank">Exercício 0</a>
 2017-03-27,<a href="../slides/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python) (continuação)</a><br> <a href="../slides/aula05-repostas.ipynb" target="_blank">Respostas exercício da aula</a>,
 2017-03-29,<a href="../slides/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) </a>,
-2017-04-03,Pré-processamento de dados,
+2017-04-03,<a href="../slides/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) (continuação)</a>,
 2017-04-05,Conceitos de análise exploratória de dados,
 2017-04-10,Revisão de estatísticas descritivas,
 2017-04-12,Visualização de dados,
