@@ -9,9 +9,9 @@ data,aula,exercicio
 2017-03-29,<a href="../slides/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) </a>,
 2017-04-03,<a href="../slides/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) (continuação)</a>,
 2017-04-05,<a href="../slides/aula07-preprocessamento.ipynb" target="_blank">Pré-processamento dos dados </a>,
-2017-04-10,<a href="../slides/aula07-preprocessamento.ipynb" target="_blank">Pré-processamento dos dados (continuação)</a>,
-2017-04-12,Visualização de dados,
-2017-04-17,Visualização de dados,
+2017-04-10,<a href="../slides/aula07-preprocessamento.ipynb" target="_blank">Pré-processamento dos dados (continuação)</a>, ex1 (link divulgado por email)
+2017-04-12,<a href="../slides/aula08-eda.ipynb" target="_blank">Intro AED (revisão de estatísticas descritivas)</a>,
+2017-04-17,<a href="../slides/aula09-datavis-parte01.ipynb" target="_blank">Visualização de dados em Python/Pandas (Parte1)</a>,
 2017-04-19,Regressão Linear/Logística,
 2017-04-24,Regressão Linear/Logística,
 2017-04-26,Algoritmos de classificação,
