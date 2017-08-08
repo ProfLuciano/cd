@@ -1,10 +1,10 @@
 data,aula,exercicio
-2017-08-08,Apresentação do curso,
+2017-08-08,Apresentação do curso,<a href="https://github.com/if1015-datascience-ufpe/2017_2-ex0/blob/master/ex0.ipynb" target="_blank">Exercício 0</a>
 2017-08-10,<a href="https://rawgit.com/if1015-datascience-ufpe/slides/master/aula01-datascience.html" target="_blank">O que é Ciência dos Dados?</a>,
 2017-08-15,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula02-intro-pandas.ipynb" target="_blank">Introdução a Pandas</a>,
 2017-08-17,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula03-intro-pandas-part2.ipynb" target="_blank">Intro Pandas Parte 2</a>,
 2017-08-22,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula03-intro-pandas-part2.ipynb" target="_blank">Intro Pandas Parte 2 (Continuação)</a>,
-2017-08-24,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python)<a>,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/ex0.ipynb" target="_blank">Exercício 0</a>
+2017-08-24,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python)<a>,
 2017-08-29,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python) (continuação)</a><br> <a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-repostas.ipynb" target="_blank">Respostas exercício da aula</a>,
 2017-08-29,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) </a>,
 2017-08-31,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) (continuação)</a>,
