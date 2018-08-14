@@ -1,10 +1,10 @@
 data,aula,exercicio
-2018-02-27,Apresentação do curso,<a href="https://github.com/if1015-datascience-ufpe/2018.2-ex0/blob/master/ex0.ipynb" target="_blank">Exercício 0</a>
+2018-08-14,Apresentação do curso,<a href="https://github.com/if1015-datascience-ufpe/2018.2-ex0/blob/master/ex0.ipynb" target="_blank">Exercício 0</a>
 2018-08-16,<a href="https://rawgit.com/if1015-datascience-ufpe/slides/master/aula01-datascience.html" target="_blank">O que é Ciência dos Dados?</a>,
 2018-08-21,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula02-intro-pandas.ipynb" target="_blank">Introdução a Pandas</a>,
 2018-08-23,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula03-intro-pandas-part2.ipynb" target="_blank">Intro Pandas Parte 2</a>,
 2018-08-28,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python)<a>,
-2018-08-30,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python) (continuação)</a><br> <a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-repostas.ipynb" target="_blank">Respostas exercício da aula</a>
+2018-08-30,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-data-scraping-com-beautifulsoup.ipynb" target="_blank">Data scraping (Extração de dados da web com Python) (continuação)</a>,<br><a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula05-repostas.ipynb" target="_blank">Respostas exercício da aula</a>
 2018-09-04,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) </a>,
 2018-09-06,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula06-data-scraping-api-twitter.ipynb" target="_blank">Data scraping (Coleta de dados do Twitter) (continuação)</a>,
 2018-09-11,<a href="https://github.com/if1015-datascience-ufpe/slides/blob/master/aula07-preprocessamento.ipynb" target="_blank">Pré-processamento dos dados </a>,
