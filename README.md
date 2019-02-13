@@ -1,4 +1,4 @@
-# IF1015 &mdash; Introdução a Ciência dos Dados 
+# IF1015 &mdash; Introdução à Ciência dos Dados 
 <img class="figura_cabecalho" src="http://www2.cin.ufpe.br/site/uploads/arquivos/18/20120530161145_marca_cin_2012_producao.jpg" alt="Centro de Informática"/><img src="http://www2.cin.ufpe.br/site/uploads/arquivos/18/20160506122724_Marca70Anos__UFPE__Horizontal.png" alt="Universidade Federal de Pernambuco" class="figura_cabecalho"/>
 
 
@@ -16,39 +16,28 @@ ol > li:before { content: counters(item, ".") ". "; counter-increment: item }
 
 Esta disciplina tem objetiva familiarizar o aluno com o novo paradigma científico 
 centrado em dados. Serão apresentadas e discutidas técnicas para coleta, integração, 
-visualização, pré-processamento e análise de dados, e comunicação de resultados. 
+visualização, pré-processamento e análise de dados. 
 O aluno também será introduzido a técnicas básicas de aprendizado supervisionado, 
 não-supervisionado e análise exploratória de dados.
-Na parte de visualização de dados, o foco será tanto nos aspectos interpretativos
-(uso de gráficos e figuras para análise de dados) quanto comunicativos
-(uso de elementos visuais para comunicar os resultados da análise).
-Para isso, serão apresentadas ferramentas e bibliotecas para visualização de gráficos.
-Finalmente, serão abordados conceitos de ética e privacidade no contexto de big data e 
-ciência dos dados.
-
 
 ### Conteúdo programático
 
-1.  O quarto paradigma científico: mudança do paradigma centrado em hipóteses para o centrado em dados
-2.  O que é ciência dos dados? 
-  1. Big data e ciência dos dados
-  2. Capacidades exigidas de um cientista de dados.
-  3. O ecossistema de ciência dos dados
-3. Coleta e pré-processamento de dados
-  1. Coleta de dados online -- data scraping -- (Web, APIs, tipos/formatos de dados)
-  2. Pré-processamento (limpeza, normalização, seleção de atributos e amostras)
-4. Análise exploratória de dados:
-  1. Conceitos de análise exploratória
-  2. Estatísticas descritivas (revisão de conceitos e implementações em R e Python)
-  3. Visualização de dados (tipos de gráficos/dados, por que visualizar, ferramentas para
-									construção de gráficos estáticos, dinâmicos e interativos)
-5. Introdução a mineração de dados (aprendizado supervisionado/não-supervisionado)
-    1. Aprendizado estatístico (Regressão Linear/Logística)
-    2. Classificação (árvores de decisão, naive Bayes, k nearest neighbors)
-    3. Agrupamento (k-means, agrupamento hierárquico)
-    4. Mineração de padrões frequentes (regras de associação)
-    5. Medidas de interesse/qualidade (Acurácia, precisão-revocação, curva ROC)
-6. Ética e privacidade no contexto de big data e ciência dos dados
+1. Introdução à ciência dos dados
+2. Aquisição de dados online
+3. Utilização de data frames (Pandas)
+4. Estatísticas descritivas
+5. Distribuições de probabilidades e testes de hipótese
+6. Visualização de dados
+7. Pré-processamento
+  1. Limpeza (detecção de outliers)
+  2. Normalização e imputação etc
+8. Processamento paralelo
+9. Modelos preditivos
+    1. Classificação 
+    2. Regressão 
+    3. Avaliação e diagnóstico de modelos
+10. Agrupamento
+11. Rastreamento e reproducibilidade
 	
 
 
