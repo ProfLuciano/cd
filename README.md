@@ -1,16 +1,5 @@
 # IF1015 &mdash; Introdução à Ciência dos Dados 
-<img class="figura_cabecalho" src="http://www2.cin.ufpe.br/site/uploads/arquivos/18/20120530161145_marca_cin_2012_producao.jpg" alt="Centro de Informática"/><img src="http://www2.cin.ufpe.br/site/uploads/arquivos/18/20160506122724_Marca70Anos__UFPE__Horizontal.png" alt="Universidade Federal de Pernambuco" class="figura_cabecalho"/>
 
-
-
-
-
-<style type="text/css">
-ol { counter-reset: item }
-ol > li { display: block }
-ol > li:before { content: counters(item, ".") ". "; counter-increment: item }
-.figura_cabecalho {height: 80px}
-</style>
 
 ### Ementa (Descrição da Disciplina)
 
