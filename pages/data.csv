@@ -1,7 +1,7 @@
 data,aula
 2019-02-19,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula1_intro.pdf">Introdução a ciência dos dados</a>
 2019-02-21,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula2_coleta.pdf">Aquisição de dados online</a>
-2019-02-26,Processamento de Dados Colunares (Pandas) | <a href="https://github.com/if1015-datascience/material/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Notebook</a>
+2019-02-26,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Processamento de Dados Colunares (Pandas)</a>
 2019-02-28,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a> | <a href="https://github.com/if1015-datascience/material/blob/gh-pages/notebooks/aula3_stats_desc.ipynb">Notebook</a>
 2019-03-05,Feriado
 2019-03-07,Visualização de dados
