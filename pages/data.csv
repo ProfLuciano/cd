@@ -1,39 +1,39 @@
-data,aula
-2019-02-19,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula1_intro.pdf">Introdução a ciência dos dados</a>
-2019-02-21,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula2_coleta.pdf">Aquisição de dados online</a>
-2019-02-26,Processamento de Dados Colunares (Pandas)
-2019-02-28,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a>
-2019-03-05,Feriado
-2019-03-07,Distribuições de probabilidades e testes de hipótese
-2019-03-12,Visualização de dados
-2019-03-14,Definição dos grupos e dos dados a serem usados no projeto
-2019-03-19,Acompanhamento de projeto
-2019-03-21,Acompanhamento de projeto
-2019-03-26,Pré-processamento: Normalização e imputação etc
-2019-03-28,Não haverá aula
-2019-04-02,Pré-processamento: Limpeza (detecção de outliers)
-2019-04-04,Processamento paralelo
-2019-04-09,Acompanhamento de projeto
-2019-04-11,Acompanhamento de projeto
-2019-04-16,Modelos preditivos: Classificação
-2019-04-18,Feriado
-2019-04-23,Apresentação projeto 1
-2019-04-25,Apresentação projeto 1
-2019-04-30,Modelos preditivos: Classificação
-2019-05-02,Modelos preditivos: Classificação de Texto
-2019-05-07,Modelos preditivos: Regressão
-2019-05-09,Não haverá aula
-2019-05-14,Modelos preditivos: Avaliação e diagnóstico de modelos
-2019-05-16,Agrupamento
-2019-05-21,Rastreamento e reproducibilidade
-2019-05-23,Definição do projeto 2
-2019-05-28,Acompanhamento de projeto (não obrigatório)
-2019-05-30,Acompanhamento de projeto (não obrigatório)
-2019-06-04,Acompanhamento de projeto (não obrigatório)
-2019-06-06,Acompanhamento de projeto (não obrigatório)
-2019-06-11,Acompanhamento de projeto (não obrigatório)
-2019-06-13,Apresentação do projeto 2
-2019-06-18,Apresentação do projeto 2
-2019-06-20,Feriado
-2019-06-25,Não haverá aula
-2019-06-27,Final
+data,aula,notebook
+2019-02-19,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula1_intro.pdf">Introdução a ciência dos dados</a>,
+2019-02-21,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula2_coleta.pdf">Aquisição de dados online</a>,
+2019-02-26,Processamento de Dados Colunares (Pandas),<a href="https://github.com/if1015-datascience/material/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Notebook</a>
+2019-02-28,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a>,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/notebooks/aula3_stats_desc.ipynb">Notebook</a>
+2019-03-05,Feriado,
+2019-03-07,Visualização de dados,
+2019-03-12,Aula de laboratório,
+2019-03-14,Distribuições de probabilidades e testes de hipótese,
+2019-03-19,Aula de laboratório,
+2019-03-21,Pré-processamento: Normalização e imputação etc,
+2019-03-26,Aula de laboratório,
+2019-03-28,Não haverá aula,
+2019-04-02,Pré-processamento: Limpeza (detecção de outliers),
+2019-04-04,Aula de laboratório,
+2019-04-09,Processamento paralelo,
+2019-04-11,Aula de laboratório,
+2019-04-16,Modelos preditivos: Classificação,
+2019-04-18,Feriado,
+2019-04-23,Apresentação projeto 1,
+2019-04-25,Apresentação projeto 1,
+2019-04-30,Modelos preditivos: Classificação,
+2019-05-02,Modelos preditivos: Classificação de Texto,
+2019-05-07,Modelos preditivos: Regressão,
+2019-05-09,Não haverá aula,
+2019-05-14,Modelos preditivos: Avaliação e diagnóstico de modelos,
+2019-05-16,Agrupamento,
+2019-05-21,Rastreamento e reproducibilidade,
+2019-05-23,Definição do projeto 2,
+2019-05-28,Acompanhamento de projeto (não obrigatório),
+2019-05-30,Acompanhamento de projeto (não obrigatório),
+2019-06-04,Acompanhamento de projeto (não obrigatório),
+2019-06-06,Acompanhamento de projeto (não obrigatório),
+2019-06-11,Acompanhamento de projeto (não obrigatório),
+2019-06-13,Apresentação do projeto 2,
+2019-06-18,Apresentação do projeto 2,
+2019-06-20,Feriado,
+2019-06-25,Não haverá aula,
+2019-06-27,Final,
