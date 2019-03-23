@@ -9,10 +9,10 @@ data,aula
 2019-03-14,<a href="https://github.com/if1015-datascience/material/blob/gh-pages/slides/aula4_teste_hipot.pdf">Distribuições de probabilidades e testes de hipótese</a> | <a href="https://github.com/if1015-datascience/material/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
 2019-03-19,Aula de laboratório
 2019-03-21,Pré-processamento: Normalização e imputação etc
-2019-03-26,Aula de laboratório
+2019-03-26,Pré-processamento: Limpeza (detecção de outliers)
 2019-03-28,Não haverá aula
-2019-04-02,Pré-processamento: Limpeza (detecção de outliers)
-2019-04-04,Aula de laboratório
+2019-04-02,Aula de laboratório
+2019-04-04,Processamento paralelo
 2019-04-09,Processamento paralelo
 2019-04-11,Aula de laboratório
 2019-04-16,Modelos preditivos: Classificação
