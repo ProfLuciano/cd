@@ -1,4 +1,4 @@
-# IF1015 &mdash; Introdução à Ciência dos Dados 
+# IF697 &mdash; Introdução à Ciência dos Dados 
 
 
 ### Ementa (Descrição da Disciplina)
@@ -20,13 +20,14 @@ não-supervisionado e análise exploratória de dados.
 7. Pré-processamento
   1. Limpeza (detecção de outliers)
   2. Normalização e imputação etc
-8. Processamento paralelo
-9. Modelos preditivos
+8. Processamento de dados em larga escala
+9. Processamento de séries temporais
+10. Modelos preditivos
     1. Classificação 
     2. Regressão 
     3. Avaliação e diagnóstico de modelos
-10. Agrupamento
-11. Rastreamento e reproducibilidade
+11. Agrupamento
+12. Rastreamento e reproducibilidade
 
 
 ### Bibliografia
