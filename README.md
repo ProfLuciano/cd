@@ -13,10 +13,10 @@ não-supervisionado e análise exploratória de dados.
 
 1. Introdução à ciência dos dados
 2. Aquisição de dados online
-3. Utilização de data frames (Pandas)
-4. Estatísticas descritivas
-5. Distribuições de probabilidades e testes de hipótese
-6. Visualização de dados
+3. Manipulação de dados colunares (Pandas)
+4. Visualização de dados 
+5. Estatísticas descritivas
+6. Testes de hipótese
 7. Pré-processamento
   1. Limpeza (detecção de outliers)
   2. Normalização e imputação etc
@@ -27,7 +27,6 @@ não-supervisionado e análise exploratória de dados.
     3. Avaliação e diagnóstico de modelos
 10. Agrupamento
 11. Rastreamento e reproducibilidade
-	
 
 
 ### Bibliografia
