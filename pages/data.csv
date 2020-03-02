@@ -1,37 +1,34 @@
 data,aula
-2020-03-03,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução a ciência dos dados</a>
+2020-03-03,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à ciência dos dados</a>
 2020-03-05,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula2_coleta.pdf">Aquisição de dados online</a>
 2020-03-10,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_dados.pdf">Dados Colunares (Pandas)</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/column-oriented-processing.ipynb">Notebook</a>
 2020-03-12,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
-2019-03-05,Feriado
-2019-03-07,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/Visualizacao.ipynb">Visualização de dados</a>
-2019-03-12,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pandas2.ipynb">Exercício de Pandas</a>
-2019-03-14,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula4_teste_hipot.pdf">Distribuições de probabilidades e testes de hipótese</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
-2019-03-19,Aula de laboratório
-2019-03-21,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
-2019-03-26,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
-2019-03-28,Não haverá aula
-2019-04-02,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf">Projeto 1</a> 
-2019-04-04,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
-2019-04-09,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
-2019-04-11,Aula de laboratório
-2019-04-16,Aula de laboratório 
-2019-04-18,Feriado
-2019-04-23,Sem aula
-2019-04-25,Apresentação projeto 1
+2019-03-17,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/Visualizacao.ipynb">Visualização de dados</a>
+2019-03-19,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pandas2.ipynb">Exercício de Pandas</a>
+2019-03-24,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula4_teste_hipot.pdf"> Testes de hipótese</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
+2019-03-26,Aula de laboratório
+2019-03-31,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
+2019-04-02,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
+2019-04-07,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
+2019-04-09, Feriado
+2019-04-14,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
+2019-04-16,Aula de laboratório
+2019-04-21,Feriado
+2019-04-23,Aula de laboratório
+2019-04-28,Apresentação projeto 1
 2019-04-30,Apresentação projeto 1
-2019-05-02,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/classification.pdf"> Classificação  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/classification.ipynb">  Notebook </a>
+2019-05-05,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/classification.pdf"> Classificação  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/classification.ipynb">  Notebook </a>
 2019-05-07,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/regression.ipynb"> Regressão </a>
-2019-05-09,Não haverá aula
-2019-05-14,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/clustering.pdf"> Agrupamento  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/clustering.ipynb">  Notebook </a>
-2019-05-16,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto2.pdf"> Projeto 2 </a>
+2019-05-12,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/clustering.pdf"> Agrupamento  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/clustering.ipynb">  Notebook </a>
+2019-05-14, Rastreamento e reproducibilidade
+2019-05-19,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto2.pdf"> Projeto 2 </a>
 2019-05-21,Acompanhamento de projeto (não obrigatório)
-2019-05-23,Acompanhamento de projeto (não obrigatório)
+2019-05-26,Acompanhamento de projeto (não obrigatório)
 2019-05-28,Acompanhamento de projeto (não obrigatório)
-2019-05-30,Acompanhamento de projeto (não obrigatório)
+2019-06-02,Acompanhamento de projeto (não obrigatório)
 2019-06-04,Acompanhamento de projeto (não obrigatório)
-2019-06-06,Apresentação do projeto 2
-2019-06-11,Apresentação do projeto 2
-2019-06-13,Não haverá aula
-2019-06-28,Final
-
+2019-06-09,Acompanhamento de projeto (não obrigatório)
+2019-06-11,Feriado
+2019-06-16,Apresentação do projeto 2
+2019-06-18,Apresentação do projeto 2
+2019-06-25,Final
