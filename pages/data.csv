@@ -1,18 +1,16 @@
 data,aula
-2020-08-18,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à ciência dos dados</a>
-2020-08-20,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_dados.pdf">Dados Colunares (Pandas)</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/column_oriented_processing.ipynb">Notebook</a>
-2020-08-25,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
-2020-08-27,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pandas2.ipynb">Exercício de Pandas</a>
-2020-09-01,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/Visualizacao.ipynb">Visualização de dados</a>
-2020-09-03,Aula prática
-2020-09-08,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula4_teste_hipot.pdf"> Testes de hipótese</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
+2020-08-25,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à ciência dos dados</a>
+2020-08-27,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_dados.pdf">Dados Colunares (Pandas)</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/column_oriented_processing.ipynb">Notebook</a>
+2020-09-01,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
+2020-09-03,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pandas2.ipynb">Exercício de Pandas</a>
+2020-09-08,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/Visualizacao.ipynb">Visualização de dados</a>
 2020-09-10,Aula prática
-2020-09-15,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
-2020-09-17,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf"> Projeto 1 </a>
-2020-09-22,Aula prática
-2020-09-24,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
-2020-09-29,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
-2020-10-01,Aula prática
+2020-09-15,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula4_teste_hipot.pdf"> Testes de hipótese</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
+2020-09-17,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
+2020-09-22,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf"> Projeto 1 </a>
+2020-09-24,Aula prática
+2020-09-29,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
+2020-10-01,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
 2020-10-06,Aula prática 
 2020-10-08,Aula prática 
 2020-10-13,Apresentação projeto 1
