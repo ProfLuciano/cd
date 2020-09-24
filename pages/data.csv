@@ -9,7 +9,7 @@ data,aula
 2020-09-17,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
 2020-09-22,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf"> Projeto 1 </a>
 2020-09-24,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
-2020-09-27,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
+2020-09-29,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
 2020-10-01,Acompanhamento 
 2020-10-06,Acompanhamento 
 2020-10-08,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/classification.pdf"> Classificação  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/classification.ipynb">  Notebook </a>
@@ -24,5 +24,5 @@ data,aula
 2020-11-05,Acompanhamento
 2020-11-10,Acompanhamento
 2020-11-12,Acompanhamento
-2020-11-18,Entrega do segundo projeto
+2020-11-13,Entrega do segundo projeto
 2020-11-24,Final
