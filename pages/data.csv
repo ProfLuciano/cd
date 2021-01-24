@@ -1,28 +1,27 @@
 data,aula
-2020-08-25,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à ciência dos dados</a>
-2020-08-27,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_dados.pdf">Dados Colunares (Pandas)</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/column_oriented_processing.ipynb">Notebook</a>
-2020-09-01,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
-2020-09-03,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_datasets.pdf"> Sugestões de dados para o projeto</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pandas2.ipynb">Exercício de Pandas</a>
-2020-09-08,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/Visualizacao.ipynb">Visualização de dados em Python</a>
-2020-09-10,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula4_teste_hipot.pdf"> Testes de hipótese</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
-2020-09-15,Aula prática
-2020-09-17,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
-2020-09-22,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf"> Projeto 1 </a>
-2020-09-24,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
-2020-09-29,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
-2020-10-01,Acompanhamento 
-2020-10-06,Acompanhamento 
-2020-10-08,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/classification.pdf"> Classificação  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/classification.ipynb">  Notebook </a>
-2020-10-13,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/regression.ipynb"> Regressão </a>
-2020-10-15,Acompanhamento
-2020-10-16,Entrega do primeiro projeto
-2020-10-20,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/clustering.pdf"> Agrupamento  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/clustering.ipynb">  Notebook </a>
-2020-10-22,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/mle.pdf"> Workflow e rastreamento em ML </a>
-2020-10-27,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto2.pdf"> Projeto 2 </a>
-2020-10-29,Acompanhamento
-2020-11-03,Acompanhamento
-2020-11-05,Acompanhamento
-2020-11-10,Acompanhamento
-2020-11-12,Acompanhamento
-2020-11-17,Entrega do segundo projeto
-2020-11-24,Final
+2021-01-26,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula1_intro.pdf">Introdução à ciência dos dados</a>
+2021-01-28,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_dados.pdf">Dados Colunares (Pandas)</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/column_oriented_processing.ipynb">Notebook</a>
+2021-02-02,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula3_stats_descr.pdf">Estatísticas descritivas</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/stats_desc.ipynb">Notebook</a>
+2021-02-04,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/Visualizacao.ipynb">Visualização de dados em Python</a>
+2021-02-09,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula_datasets.pdf"> Sugestões de dados para o projeto</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pandas2.ipynb">Exercício de Pandas</a>
+2021-02-11,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/aula4_teste_hipot.pdf"> Testes de hipótese</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/teste_hipotese.ipynb">Notebook</a>
+2021-02-18,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc1.pdf">Pré-processamento de Dados: Normalização e imputação etc </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento1.ipynb"> Notebook </a>
+2021-02-23,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf"> Projeto 1 </a>
+2021-03-25,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
+2021-04-02,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
+2021-03-04,Acompanhamento 
+2021-03-09,Acompanhamento 
+2021-03-11,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/classification.pdf"> Classificação  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/classification.ipynb">  Notebook </a>
+2021-03-16,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/regression.ipynb"> Regressão </a>
+2021-03-18, Interpretabilidade de predições
+2021-03-23,Acompanhamento
+2021-03-25,Entrega do primeiro projeto
+2021-04-30,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/clustering.pdf"> Agrupamento  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/clustering.ipynb">  Notebook </a>
+2021-04-06, Workflow e rastreamento em ML
+2021-04-08,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto2.pdf"> Projeto 2 </a>
+2021-04-13,Acompanhamento
+2021-04-15,Acompanhamento
+2021-04-20,Acompanhamento
+2021-04-22,Acompanhamento
+2021-04-27,Entrega do segundo projeto
+2021-05-03,Final
