@@ -10,7 +10,7 @@ data,aula
 2022-07-25,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/pre_proc2.pdf">Pré-processamento: Limpeza (detecção de outliers) </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/pre_processamento2.ipynb"> Notebook </a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/projeto1.pdf"> Projeto 1 </a>
 2022-07-27,Acompanhamento
 2022-08-01,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/proc_dados.pdf">Processamento de dados em larga escala</a> | <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/processamento_de_dados.ipynb"> Notebook </a>
-2022-08-03,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a> (Acompanhamento)
+2022-08-03,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/time_series.ipynb">Processamento de séries temporais </a>
 2022-08-08,Acompanhamento
 2022-08-10,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/slides/classification.pdf"> Classificação  </a> |  <a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/classification.ipynb">  Notebook </a>
 2022-08-15,<a href="https://github.com/ProfLuciano/cd/blob/gh-pages/notebooks/regression.ipynb"> Regressão </a>
