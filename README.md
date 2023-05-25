@@ -1,4 +1,4 @@
-# IF697 &mdash; Introdução à Ciência dos Dados 
+# Introdução à Ciência dos Dados 
 
 
 ### Ementa (Descrição da Disciplina)
@@ -21,4 +21,5 @@ O principal objetivo desta disciplina é apresentar ao aluno uma visão geral da
     1. Classificação 
     2. Regressão 
 10. Agrupamento
+11. Workflows e rastreamento
 
